@@ -1,0 +1,16 @@
+# Ignore arrow cache files
+*.arrow
+
+# Hugging Face or PyTorch cache
+cache/
+__pycache__/
+
+# Checkpoint/model files
+*.pt
+*.pth
+
+# VS Code config files (optional)
+.vscode/
+
+# Colab junk
+.ipynb_checkpoints/
