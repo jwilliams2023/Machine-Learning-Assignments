@@ -5,9 +5,6 @@
 cache/
 __pycache__/
 
-# Checkpoint/model files
-*.pt
-*.pth
 
 # VS Code config files (optional)
 .vscode/
