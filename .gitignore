@@ -5,6 +5,10 @@
 cache/
 __pycache__/
 
+# Ignore model files
+*.pt
+*.pth
+
 
 # VS Code config files (optional)
 .vscode/
